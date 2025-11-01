@@ -17,7 +17,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kzary&show_icons=true&locale=en&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=kzary&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kzary&show_icons=true&count_private=true&theme=radical&hide=prs,issues)
 
